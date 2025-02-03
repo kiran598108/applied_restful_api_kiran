@@ -4,7 +4,7 @@ and i added my second assignment as flie name "hello world.js".
 
 
 # Basics OF postman 
-performed some basic operations about postman like GET and Post requests using example badic tutorial.
+performed some basic operations about postman like GET and Post requests using example basic tutorial.
 
 
 # Created API,Server with help of NVM(Node Version Manager and sent Requests LIKE GET,POST,PATCH,DELETE using Postman.
