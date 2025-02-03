@@ -1,8 +1,13 @@
-# applied_restful_api_kiran
+# Applied_Restful_Api_Integrations!!
 This my_test of first assignment for Applied restful api week 1.
-and i added my second assignment as flie name "hello world.js"
+and i added my second assignment as flie name "hello world.js".
 
-##Created API,Server with help of NVM(Node Version Manager and sent Requests LIKE GET,POST,PATCH,DELETE using Postman.
+
+# Basics OF postman 
+performed some basic operations about postman like GET and Post requests using example badic tutorial.
+
+
+# Created API,Server with help of NVM(Node Version Manager and sent Requests LIKE GET,POST,PATCH,DELETE using Postman.
 
 Installed "Mongoose", Express, libraries in prompt shell with help NVM.
 
